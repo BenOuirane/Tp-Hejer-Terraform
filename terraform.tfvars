@@ -3,5 +3,5 @@
 ##par le moteur Terraform ##
 
 
-AWS_ACCESS_KEY="AKIA5LOFVLK2WBU4D4CX"
-AWS_SECRET_KEY="MX1vHffhnVzZA2NhMc5hi+BtprOFF6YcLsSJh7nt"
+AWS_ACCESS_KEY="Put your access key here"
+AWS_SECRET_KEY="put your secret key here"
