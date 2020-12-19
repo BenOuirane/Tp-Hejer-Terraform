@@ -40,3 +40,17 @@ AWS_SECRET_KEY="put your secret key here"
 - Un README (README.md)
 - Déployer  l'application sur EC2 AWS
 - Une vidéo
+
+
+## Procédure
+1. Cloner ce repository 
+2. Se placer dans le repository
+
+3. Lancer le fichier terraform_init.sh avec la commande suivante :
+```
+sh scripts/terraform_init.sh
+```
+4. Pour supprimer les ressources créées avec terraform, lancer le fichier terraform_destroy.sh avec la commande suivante :
+```
+sh scripts/terraform_destroy.sh
+```
