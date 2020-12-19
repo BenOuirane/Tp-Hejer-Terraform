@@ -56,7 +56,7 @@ sh scripts/terraform_destroy.sh
 ```
 
 ## Architecture finale simplifiée
-![Architecture finale simplifiée](Diagramme/Untitled Diagram.png)
+![Architecture finale simplifiée](Tp-Hejer-Terraform/Diagramme/Untitled Diagram.png?raw=true "Architecture finale simplifiée")
 
 
 
