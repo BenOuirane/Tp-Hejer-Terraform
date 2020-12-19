@@ -1,9 +1,7 @@
-<a >
-    <img src="https://mrkzgulfup.com/download462007.html" align="right" height="50" />
+<a href="https://terraform.io">
+    <img src="https://cdn.rawgit.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp.svg" alt="Terraform logo" title="Terraform" align="right" height="50" />
 </a>
-<a >
-    <img src="https://mrkzgulfup.com/download462007.html" align="right" height="50" />
-</a>
+
 
 # Tp-Hajeur-ING3-Terraform
 
