@@ -13,6 +13,7 @@
 - [Procédure](#procédure)
 - [Architecture finale simplifiée](#architecture-finale-simplifiée)
 - [Diagramme de classe simplifiée](#Diagramme-de-classe-simplifiée)
+- [Liens travail](#Liens-travail)
 
 ## Prérequis
 - Avoir un compte AWS
@@ -67,3 +68,7 @@ sh scripts/terraform_destroy.sh
   <img src="Diagramme/Diagramme-de-Classe.jpg" width="1000" title="hover text"> 
 </p>
 
+## Liens travail
+
+Lien Code Scala : https://github.com/BenOuirane/TP-Hejer-Streaming-Twitter
+Lien Video : https://www.youtube.com/watch?v=IF7ynaCAF-o&t=143s
