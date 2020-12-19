@@ -70,5 +70,5 @@ sh scripts/terraform_destroy.sh
 
 ## Liens travail
 
-Lien Code Scala : https://github.com/BenOuirane/TP-Hejer-Streaming-Twitter
-Lien Video : https://www.youtube.com/watch?v=IF7ynaCAF-o&t=143s
+- Lien Code Scala : https://github.com/BenOuirane/TP-Hejer-Streaming-Twitter
+- Lien Video : https://www.youtube.com/watch?v=IF7ynaCAF-o&t=143s
