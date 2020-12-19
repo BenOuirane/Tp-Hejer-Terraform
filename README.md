@@ -56,7 +56,7 @@ sh scripts/terraform_destroy.sh
 ```
 
 ## Architecture finale simplifiée
-![alt text](Diagramme/Untitled Diagram.png?raw=true)
+![alt text](Diagramme/Untitled Diagram.png)
 
 
 
