@@ -8,7 +8,6 @@
 # Exam : Terraform
 
 - [Prérequis](#prérequis)
-- [Aperçu de l'application](#aperçu-de-lapplication)
 - [Références](#références)
 - [Buts du projet](#buts-du-projet)
 - [Procédure](#procédure)
@@ -24,5 +23,10 @@
 AWS_ACCESS_KEY="Put your access key here"
 AWS_SECRET_KEY="put your secret key here"
 ```
-- Génere la clé priver avec PuTTYgen et l'ajouter dans le dossier
+- Génere la clé priver .ppk avec PuTTYgen et l'ajouter dans le dossier
 - Changer la region qui est convenable a votre compte aws
+
+
+## Références
+- https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/kinesis_stream
+- https://github.com/easyawslearn/terraform-aws-kinesis
