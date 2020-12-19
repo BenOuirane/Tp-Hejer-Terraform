@@ -30,3 +30,13 @@ AWS_SECRET_KEY="put your secret key here"
 ## Références
 - https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/kinesis_stream
 - https://github.com/easyawslearn/terraform-aws-kinesis
+
+## Buts du projet
+- Créer  une infrastructure de déployement(VPC, EC2, IAM) sur AWS à l'aide de terraform
+- Créer  une infrastructure Data (AWS Kinesis Data Stream, Kinesis Firehose, Glue, Athena)  à l'aide de terraform
+- Créer une application en Scala qui va récupérer un nombre X de tweets toutes les Y minutes
+- Un schema d’infrastructure
+- Un diagramme de séquence
+- Un README (README.md)
+- Déployer  l'application sur EC2 AWS
+- Une vidéo
