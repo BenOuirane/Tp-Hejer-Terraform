@@ -56,11 +56,14 @@ sh scripts/terraform_destroy.sh
 ```
 
 ## Architecture finale simplifiée
-![alt text](Diagramme/Untitled Diagram.png)
-
 
 <p align="center">
-  <img src="Diagramme/Untitled Diagram.png" width="350" title="hover text">
- 
+  <img src="Diagramme/Untitled Diagram.png" width="800" title="hover text"> 
+</p>
+
+## Diagramme de classe simplifiée
+
+<p align="center">
+  <img src="Diagramme/Diagramme-de-Classe.jpg" width="1000" title="hover text"> 
 </p>
 
