@@ -5,4 +5,13 @@
 
 # Tp-Hajeur-ING3-Terraform
 
+# Exam : Terraform
+
+- [Prérequis](#prérequis)
+- [Aperçu de l'application](#aperçu-de-lapplication)
+- [Références](#références)
+- [Buts du projet](#buts-du-projet)
+- [Procédure](#procédure)
+- [Architecture finale simplifiée](#architecture-finale-simplifiée)
+- [Diagramme de classe simplifiée](#Diagramme-de-classe-simplifiée)
 
