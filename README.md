@@ -1,4 +1,4 @@
-<a href="https://terraform.io">
+<a >
     <img src="https://upload.wikimedia.org/wikipedia/fr/1/11/EPISEN.JPG" alt="Terraform logo" title="Terraform" align="right" height="100" />
 </a>
 
@@ -56,6 +56,7 @@ sh scripts/terraform_destroy.sh
 ```
 
 ## Architecture finale simplifiée
+![alt text](Diagramme/Untitled Diagram.png?raw=true)
 ![Architecture finale simplifiée](Diagramme/Untitled Diagram.png)
 
 
